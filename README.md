@@ -40,3 +40,20 @@ terrain and pattern caches
 ## Quick start
 leo_app             % interactive planner
 altitude_curves     %S/N-vs-altitude figures
+
+## References
+1. K. Jdrzejewski, M. Malanowski, M. Płotka, K. Kulpa, and M. Pożoga, “Multistatic Localisation in Passive Radar System for LEO Space Objects Observation Using Terrestrial Illuminators and LOFAR Radio Telescope,” IET Radar, Sonar & Navigation, vol. 19, no. 1, Jan. 2025, issn: 1751-8784. doi: 10.1049/rsn2.70009.
+2. S. J. Tingay et al., “On the detection and tracking of space debris using the murchison widefield array. I. Simulations and test observations demonstrate feasibility,” Astronomical Journal, vol. 146, no. 4, Oct. 2013, issn: 00046256. doi: 10.1088/0004-6256/146/4/103.
+3. Broadcast transmitter data, 2026. [Online]. Available: https://www.acma.gov.au.
+4. T. S. Kelso, CelesTrak: GP element sets and SATCAT, 2026. [Online]. Available: https://celestrak.org.
+5. Aerospace Toolbox propogateOrbit, 2026. [Online]. Available: https://au.mathworks.com/help/aerotbx/ug/propagateorbit.html
+6. Direct Signal Interference (DSI) Suppression In Passive Radar, 2026. [Online]. Available: https : / / au . mathworks . com / help / phased / ug / direct -signal - interference - dsi - suppression - in - passive - radar . html #DSISuppressionInPassiveRadarExample-17.
+7. LongleyRice, 2026. [Online]. Available: https://au.mathworks.com/help/antenna/ref/rfprop.longleyrice.htm
+
+## AI use declaration
+Generative AI tools were used in developing this model. The author takes responsibility for critically evaluating and integrating the AI-generated content, and for ensuring it meets academic integrity standards.
+
+AI model and date          Use                                  Explanation
+Claude, 30 Apr - 5 May     Data analysis                        Coding in Python
+Claude, 16 Oct - 7 Nov     Methodological support; data         Model and simulation
+                           analysis                             code development
